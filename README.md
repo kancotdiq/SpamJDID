@@ -5,5 +5,5 @@
 # pkg install python2
 # pkg install git
 # pip2 install requests
-# cd spj
+# cd SpamJDID
 # python2 spam.py
